@@ -373,13 +373,16 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     flex: 0 1 50%;
     margin: 0 0 30px 0;
-    padding: 15px 0;
+    padding: 15px 0px;
   }
   .details__advantages {
     margin-left: auto;
     position: relative;
     left: 0;
     top: -180px;
+  }
+  .details__system {
+  padding-right: 10px;
   }
   .advantages__title {
     font-size: 18px;
